@@ -1,0 +1,22 @@
+{
+  "name": "item",
+  "version": "0.0.1",
+  "description": "完整尝试一次创建开源项目",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icepluto/item.git"
+  },
+  "keywords": [
+    "item"
+  ],
+  "author": "https://github.com/icepluto/item",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icepluto/item/issues"
+  },
+  "homepage": "https://github.com/icepluto/item#readme"
+}
